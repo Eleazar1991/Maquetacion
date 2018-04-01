@@ -1,0 +1,383 @@
+
+.subgrid__header--thefox>img{
+    display:table-cell;
+    vertical-align:middle;
+    padding-right:35px; 
+}
+.subgrid__header--thefox>a.text{
+    display: inline-block;
+    text-decoration: none;
+    border-top: 5px solid #ffffff;
+    color:  #2c3e50;
+    padding-bottom: 41.5px;
+    padding-top:36.5px;
+    margin-right:40px;
+}
+.subgrid__header--thefox>a.text:hover{
+    border-top: 5px solid  #1abc9c;
+    color: #1abc9c;
+}
+
+.subgrid__header--thefox>a>#first__glyph{
+    margin-right: 20px;
+}
+.placesubgrid__header--content{
+    padding-top: 201px;
+    color:  #1a1c27;
+}
+.placesubgrid__header--content>a{
+    display:table-cell;
+    text-align:center;
+    vertical-align:middle;
+    color:#ffffff;
+    text-decoration: none;
+    border-radius: 2px;
+    background-color:  #1a1c27;
+    width: 200px;
+    height: 60px;
+}
+
+.placesubgrid__header--content>h1{  
+    font-size: 50px;
+    font-weight: 900;
+    margin:0;
+}
+.placesubgrid__header--content>h2{
+    font-size: 26px;
+    font-weight: 400;
+    margin:0;
+    
+}
+.placesubgrid__header--content>ul{
+    list-style:none;
+    padding-left: 0px;
+    line-height: 48px;
+    margin:0;
+}
+.placesubgrid__header--content>ul>li{
+    background:url('/images/Check copy 2.png') no-repeat 10px center; 
+    padding-left:58px; /* the width of your image + some space */
+    font-size: 24px;
+}
+.placesubgrid__header--content>ul>li:hover{
+    background:url('/images/Check copy.png') no-repeat left center;
+}
+
+.mainleft--thefoxhello{
+    padding-top: 98px;
+    padding-bottom: 128px;
+    color:  #2c3e50;
+}
+.mainleft--thefoxhello>h2{
+    font-size: 36px;/* Aproximación debida a la sustitución de la fuente */
+    font-weight: 300;
+    line-height: 50px;
+}
+.mainleft--thefoxhello>h3{
+    font-size: 15px;/* Aproximación debida a la sustitución de la fuente */
+    font-weight: 700;
+    line-height: 24px;
+}
+.mainleft--thefoxhello>p{
+    font-weight: 400;
+    line-height: 24px;
+}
+#button{
+    display:table-cell;
+    text-align:center;
+    vertical-align:middle;
+    color:#ffffff;
+    text-decoration: none;
+    border-radius: 2px;
+    background-color:  #a1b1bc;
+    box-shadow: 1px 3px 0px 0px #81919b;
+    width: 150px;
+    height: 50px;
+}
+.mainrigth--thefoxhello--firstsection{
+    display:table-cell;
+    vertical-align:middle;
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:  #eceef0;
+    background-color:  #ffffff;
+    width: 570px;
+    height: 45px;
+}
+.mainrigth--thefoxhello--firstsection>h3{
+    margin:0;
+    float:left;
+    width:  390.67px;
+}
+.mainrigth--thefoxhello--firstsection>a{
+    float:right;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-left-color: #eceef0;
+}
+#AccAppend > img{
+    float:left;
+}
+#AccAppend > p{
+    float:right;
+}
+.grid__main--thefoxamazing > h2{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 300;
+}
+.thefoxamazing--header{
+    width: 390px;
+    height: 50px;
+}
+.thefoxamazing--header > h3{
+    float:left;
+    margin: 14.5px;
+}
+.thefoxamazing--header > p{
+    float:right;
+    margin: 14.5px;
+    color:  #a1b1bc;
+}
+.thefoxamazing--header > p> a{
+    margin-left: 10px;
+}
+.mainthefoxamazing--element>p{
+    background-color:  #a1b1bc;
+    width: 390px;
+    height: 200px;
+    margin:0;
+}
+.mainthefoxamazing--element:hover > p{
+    background:    #222533 url('/images/+.png') no-repeat center;
+    background-image: url("/images/+.png") center;
+}
+.mainthefoxamazing--element:hover > .thefoxamazing--header{
+    background-color:  #a1b1bc;
+    color: #ffffff;
+}
+.mainthefoxamazing--element:hover > .thefoxamazing--header >p{
+    background-color:  #a1b1bc;
+    color: #ffffff;
+}
+.mainleft--thefoxwhy>h2{
+    font-size: 36px;/* Aproximación debida a la sustitución de la fuente */
+    font-weight: 300;
+    line-height: 50px;
+}
+.mainleft--thefoxwhy>p{
+    color:  #a1b1bc;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.subgrid__main--thefoxwhy{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.main--thefoxthings{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    background-color:  #20caa8;
+    width: 384px;
+    height: 200px;
+    color: #ffffff;
+}
+.main--thefoxthings:hover{
+    background-color:  #2c3e50;
+}
+
+.main--thefoxthings>div{
+    margin:58px;
+}
+#things{
+    font-size: 14px;
+    font-weight: 900;
+}
+
+.view{
+    display:none;
+}
+.thefoxopinions__title{
+    text-align:center;
+}
+.thefoxopinions__title >h2{
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 20px;
+}
+.thefoxopinions__title>a{
+    background-color:  #ffffff;
+    width: 120px;
+    height: 100px;
+    border-style: solid;
+    border-color:  #fbfafa;
+    margin-bottom: 20px;
+}
+.thefoxopinions__title>a:hover{
+    background-color:  #fbfafa;
+}
+.thefoxopinions__title>.previous{
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-left: 5px;
+}
+.thefoxopinions__title>.next{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.thefoxopinions__opinion--content{
+    margin:0;
+}
+.thefoxopinions__opinion--image{
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 4px;
+    border-color:  #ffffff;
+    box-sizing: border-box;
+    background-color:  #cccccc;
+    width: 100px;
+    height: 100px;
+}
+.thefoxopinions__opinion{
+    border-style: solid;
+    border-width: 1px;
+    border-color:  #e4e7e9;
+    background-color:  #fbfafa;
+}
+.thefoxopinions__opinion:hover{
+    background-color:  #ffffff;
+}
+.thefoxopinions__opinion:hover >.thefoxopinions__opinion--image{
+    background:  #2c3e50 url('/images/+.png') no-repeat center;
+}
+.subgrid__main--thefoxdesign--design{
+    margin-top: 100px;
+    margin-bottom: 91px;
+}
+.subgrid__main--thefoxdesign--design>p{
+    color:  #a1b1bc;
+}
+.subgrid__main--thefoxdesign--design>h2{
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 48px;
+    margin:0;
+}
+.subgrid__main--thefoxdesign--design>#first{
+    margin-bottom:42px;
+}
+.thefoxtypesofblog--image{
+    height: 180px;
+    background-color:  #788894;
+    margin:0;
+}
+.thefoxtypesofblog{
+    text-align: center;
+    background-color:  #788894;
+    color:#ffffff;
+    line-height: 24px;
+    margin:0;
+}
+.thefoxtypesofblog>div{
+    height:100px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.thefoxtypesofblog>div>h2{
+    font-size: 18px;
+    font-weight: 700;
+    margin:0;
+    padding-top: 20px;   
+}
+.thefoxtypesofblog>div>p{
+    margin:0;
+}
+.thefoxtypesofblog:hover > div{
+    background-color:rgba(34, 37, 51, 0.96);;
+}
+.thefoxtypesofblog:hover > div > h2{
+    color:  #17e2ba;
+}
+.grid__main--thefoxpurchase{
+    color:#ffffff;
+    height:500px;
+    text-align: center;
+    line-height: 14px;
+    background-color: rgb(108, 125, 137)
+}
+.grid__main--thefoxpurchase>h2{
+    padding-top: 145px;
+    font-size: 36px;
+    font-weight: 300;
+}
+.grid__main--thefoxpurchase>p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.grid__main--thefoxpurchase>div>a{
+    display:table-cell;
+    vertical-align:middle;
+    color:#ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    border-style:solid;
+    border-color:#ffffff;
+    width: 170px;
+    height: 50px;
+}
+.grid__main--thefoxpurchase>div{
+    padding-top: 10px;
+    padding-left:875px;
+}
+.subgrid__footer--thefoxrecent{
+    background-color:  #1a1c27;
+}
+.thefoxrecent,
+.thefoxrecent--recent{
+    margin-top: 100px;
+}
+.grid__footer{
+    color:#a1b1bc;
+}
+
+.thefoxrecent--recent>h2{
+    margin:0;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 24px;
+    padding-left:20px;
+    border-left: 5px solid  #1abc9c; 
+}
+.thefoxrecent--recent>.post{
+    padding-top:10px;
+    border-bottom: 1px solid #a1b1bc;
+}
+.thefoxrecent--recent>p>img{
+    margin-right:10px;
+}
+
+.thefoxrecent--gridrecent>div{
+    height: 85px;
+    background-color: #1abc9c;
+}
+.thefoxrecent--gridrecent{
+    padding-top:10px;
+}
+.subgrid__footer--thefoxfooter{
+    background-color:  #222533;
+}
+.thefoxfooter>p>a{
+    color: #1abc9c;
+    text-decoration: none;
+}
+.thefoxfooter>p{
+    float:left;
+}
+.thefoxfooter>img{
+    float: right;
+    margin-top:14px;
+}
