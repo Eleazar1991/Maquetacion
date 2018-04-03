@@ -55,12 +55,12 @@
     margin:0;
 }
 .placesubgrid__header--content>ul>li{
-    background:url('/images/Check copy 2.png') no-repeat 10px center; 
+    background:url('/Maquetacion/images/Check copy 2.png') no-repeat 10px center; 
     padding-left:58px; /* the width of your image + some space */
     font-size: 24px;
 }
 .placesubgrid__header--content>ul>li:hover{
-    background:url('/images/Check copy.png') no-repeat left center;
+    background:url('/Maquetacion/images/Check copy.png') no-repeat left center;
 }
 
 .mainleft--thefoxhello{
@@ -150,8 +150,8 @@
     margin:0;
 }
 .mainthefoxamazing--element:hover > p{
-    background:    #222533 url('/images/+.png') no-repeat center;
-    background-image: url("/images/+.png") center;
+    background:    #222533 url('/Maquetacion/images/+.png') no-repeat center;
+    background-image: url("/Maquetacion/images/+.png") center;
 }
 .mainthefoxamazing--element:hover > .thefoxamazing--header{
     background-color:  #a1b1bc;
@@ -252,7 +252,7 @@
     background-color:  #ffffff;
 }
 .thefoxopinions__opinion:hover >.thefoxopinions__opinion--image{
-    background:  #2c3e50 url('/images/+.png') no-repeat center;
+    background:  #2c3e50 url('/Maquetacion/images/+.png') no-repeat center;
 }
 .subgrid__main--thefoxdesign--design{
     margin-top: 100px;
